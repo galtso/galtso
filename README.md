@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @galtso
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Java.
